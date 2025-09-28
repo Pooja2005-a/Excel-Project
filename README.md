@@ -7,6 +7,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
  
 ## Dashboard Interaction 
+- <a href="https://github.com/Pooja2005-a/Excel-Project/blob/main/ExcelProject1SS.jpg"> Dashboard</a>
 
 
 ## Process
@@ -16,6 +17,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
+
  
 
 
